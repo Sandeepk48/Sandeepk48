@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sandeepk48-portfolio-sandeep-kakavakam.vercel.app/sitemap.xml
