@@ -1,76 +1,66 @@
-👋 Hi, I’m Sandeep Kakavakam
+# 👋 Hi, I'm Sandeep Kakavakam
 
-🚀 Flutter Developer | Mobile App Developer | Software Engineer
+### Flutter Developer | Mobile App Developer | Software Engineer
 
-I’m a passionate Flutter Developer focused on building beautiful, scalable, and high-performance cross-platform mobile applications.
+I build **cross-platform mobile applications with Flutter and Dart**, with a focus on clean architecture, reliable state management, API integration, Firebase, and polished user experiences.
 
-I enjoy turning ideas into real-world applications, exploring new technologies, and continuously improving my development skills.
+I'm actively looking for opportunities where I can contribute to real-world mobile products and grow as a software engineer.
 
-⸻
+---
 
-👨‍💻 About Me
+## 🚀 What I Work With
 
-* 🔭 Currently working with Flutter & Dart
-* 📱 Experienced in building cross-platform mobile applications
-* 🔥 Interested in Firebase, REST APIs, state management & app performance
-* 💡 Passionate about creating clean, maintainable and user-friendly applications
-* 🤝 Open to collaborating on interesting Flutter & mobile development projects
-* 💼 Actively looking for Flutter / Mobile Developer opportunities
+- 📱 **Flutter & Dart** — Cross-platform Android and iOS applications
+- 🧩 **State Management** — BLoC / Cubit
+- 🏗️ **Architecture** — Clean Architecture and feature-based organization
+- 🔥 **Firebase** — Authentication, Firestore, Analytics, Crashlytics, Messaging
+- 🌐 **Backend Integration** — REST APIs, JSON, Dio
+- 💾 **Local Storage** — Hive and secure local storage
+- 🧪 **Testing** — Flutter Test, BLoC Test, Mocktail
+- 🛠️ **Tools** — Git, GitHub, Android Studio, VS Code, Postman
 
-⸻
+---
 
-🛠️ Tech Stack
+## ⭐ Featured Projects
 
-Mobile Development
+### 💰 SpendWise AI
+A Flutter personal finance application focused on expense tracking, analytics, authentication, and a scalable Clean Architecture foundation.
 
-* Flutter
-* Dart
-* Android
-* iOS
+**Flutter • Dart • BLoC • Firebase • Hive • Dio • Go Router**
 
-Backend & Services
+👉 [View SpendWise AI](https://github.com/Sandeepk48/SpendWise-AI)
 
-* Firebase
-* REST APIs
-* JSON
-* Authentication
+### 🤖 AI Task Manager
+A full-stack task management application with authentication, task CRUD operations, and AI-powered task functionality.
 
-Tools & Technologies
+**Next.js • TypeScript • NestJS • Prisma • PostgreSQL**
 
-* Git & GitHub
-* Android Studio
-* VS Code
-* Postman
+👉 [View AI Task Manager](https://github.com/Sandeepk48/ai-task-manager)
 
-⸻
+---
 
-📚 30 Days • 30 Flutter Concepts
+## 📚 30 Days • 30 Flutter Concepts
 
-I’m sharing my practical Flutter experience through a 30 Days • 30 Flutter Concepts journey, covering topics such as:
+I'm documenting practical Flutter concepts and development experience through a **30 Days • 30 Flutter Concepts** journey, covering areas such as:
 
-* 🗄️ SQLite & Local Database
-* 🎬 Animations & Transitions
-* 🎨 Themes & Dark Mode
-* 📱 Responsive UI
-* 📦 Package & Dependency Management
-* 🧪 Testing
-* ⚡ Performance Optimization
-* 🚀 Build & Deployment
+`SQLite` • `Animations` • `Transitions` • `Themes` • `Responsive UI` • `Dependencies` • `Testing` • `Performance` • `Build & Deployment`
 
-Follow my journey and explore the concepts through my GitHub projects and posts.
+---
 
-⸻
+## 💼 Open to Opportunities
 
-🤝 Let’s Connect
+I'm currently interested in:
 
-📧 Email: sandeep.kakavakam003@gmail.com
+- Flutter Developer
+- Mobile App Developer
+- Software Engineer
 
-💼 Open to: Flutter Developer | Mobile App Developer | Software Engineer opportunities
+📧 **Email:** [sandeep.kakavakam003@gmail.com](mailto:sandeep.kakavakam003@gmail.com)
 
-⸻
+---
 
-⭐ If you find my projects useful, consider giving them a star!
+## 🤝 Let's Connect
 
-Thanks for visiting my profile! 🙌
+If you're working on an interesting Flutter or mobile project, feel free to connect or collaborate.
 
-— Sandeep Kakavakam
+⭐ Thanks for visiting my profile!
